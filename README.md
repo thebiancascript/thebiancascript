@@ -18,15 +18,15 @@ Atuei como monitora acadêmica auxiliando alunos com lógica e programação. Te
 ### 💻 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; margin: 4px;"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" style="border-radius: 8px; margin: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VSCode" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
 </p>
 
 ---
@@ -47,17 +47,6 @@ Página com minhas informações, habilidades e currículo.<br>
 🔗 <a href="https://scriptjk.github.io/meu-portifolio">Ver site</a></li>
 
 </ul>
-</p>
-
----
-
-### 🧠 Desafios de Código
-
-<p align="center">
-💡 Espaço onde pratico lógica e algoritmos:<br><br>
-
-- <strong>CodeWars:</strong> <a href="https://www.codewars.com/users/thebiancascript">codewars.com/users/scriptjk</a><br>
-Resolvendo desafios com JavaScript para aprimorar lógica.
 </p>
 
 ---
