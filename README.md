@@ -7,11 +7,9 @@ Apaixonada por tecnologia, soluções criativas e aprendizado contínuo 🚀
 
 ---
 
-### 👩‍🎓 Sobre mim
+### 👩‍🎓 About Me
 
-Sou estudante de ADS no Unipê (conclusão em 2026), buscando minha primeira oportunidade como estagiária ou desenvolvedora júnior.
-
-Atuei como monitora acadêmica auxiliando alunos com lógica e programação. Tenho paixão por aprender, colaborar em equipe e desenvolver soluções que façam a diferença.
+Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de lógica de programação, Git e metodologias ágeis como Kanban! Já atuei como monitora acadêmica em programação e estou sempre estudando e praticando com projetos pessoais. Tenho paixão por aprender, colaborar em equipe e desenvolver soluções que façam a diferença! Busco minha primeira oportunidade como estagiária ou desenvolvedora júnior na área de TI.
 
 ---
 
