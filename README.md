@@ -18,18 +18,17 @@ Atuei como monitora acadêmica auxiliando alunos com lógica e programação. Te
 ### 💻 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" alt="C#" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" alt="Java" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" alt="VSCode" width="40" height="40" style="margin: 5px; border-radius: 8px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=python&logoColor=3776AB" alt="Python" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=c-sharp&logoColor=239120" alt="C#" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=java&logoColor=007396" alt="Java" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=git&logoColor=F05032" alt="Git" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=github&logoColor=181717" alt="GitHub" style="border-radius: 8px; margin: 5px;" />
+  <img src="https://img.shields.io/badge/-?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" style="border-radius: 8px; margin: 5px;" />
 </p>
 
----
 
 ### 🌟 Projetos em destaque
 
