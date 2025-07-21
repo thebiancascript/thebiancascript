@@ -30,6 +30,7 @@ Atuei como monitora acadêmica auxiliando alunos com lógica e programação. Te
 </p>
 
 
+
 ### 🌟 Projetos em destaque
 
 <p align="center">
