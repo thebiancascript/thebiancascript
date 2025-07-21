@@ -45,7 +45,7 @@ Atuei como monitora acadêmica auxiliando alunos com lógica e programação. Te
 
 💡 Espaço onde pratico lógica e algoritmos:
 
-- **CodeWars:** [codewars.com/users/scriptjk](https://www.codewars.com/users/scriptjk)  
+- **CodeWars:** [codewars.com/users/scriptjk](https://www.codewars.com/users/thebiancascript)  
   Resolvendo desafios com JavaScript para aprimorar lógica.
 
 ---
