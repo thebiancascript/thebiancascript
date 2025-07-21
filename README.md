@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Bianca Sobral | Desenvolvedora em formação</h1>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-End e Full Stack<br>
+Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-End
 Apaixonada por tecnologia, soluções criativas e aprendizado contínuo 🚀
 </p>
 
