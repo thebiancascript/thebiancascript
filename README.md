@@ -53,8 +53,8 @@ Atuei como monitora acadêmica auxiliando alunos com lógica e programação. Te
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptjk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptjk&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thebiancascript&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebiancascript&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
