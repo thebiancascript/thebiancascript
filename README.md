@@ -30,14 +30,6 @@ Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de l�
 
 ### 🌟 Projetos em destaque
 
-<p align="center">
-<ul style="list-style:none; padding-left: 0; display: inline-block; text-align: left;">
-
-<li>🧠 <strong>Calculadora Simples com JavaScript</strong><br>
-Projeto para praticar lógica, DOM e interação básica.<br>
-🔗 <a href="https://github.com/scriptjk/calculadora-js">Ver repositório</a></li>
-
-<br>
 
 <li>💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
 Página com minhas informações, habilidades e currículo.<br>
