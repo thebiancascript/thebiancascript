@@ -61,13 +61,13 @@ Página com minhas informações, soft/hard skills e currículo.<br>
 
 ---
 
-<h3 align="center">📬 Como falar comigo</h3>
+<h3 align="center">📬 Contact Me!</h3>
 
 <p align="center" style="font-size: 18px;">
   <a href="https://linkedin.com/in/bsobral0327" target="_blank" style="text-decoration: none; color: #0077b5; margin-right: 20px;">
     linkedin.com/in/bsobral0327
   </a>
-    &
+    or
   <a href="mailto:biancaferreirasobral@gmail.com" target="_blank" style="text-decoration: none; color: #c71610; margin-left: 20px;">
     biancaferreirasobral@gmail.com
   </a>
