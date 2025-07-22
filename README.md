@@ -36,7 +36,7 @@ Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de l�
 
 
 <li>💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
-Página com minhas informações, habilidades e currículo.<br>
+Página com minhas informações, soft/hard skills e currículo.<br>
 🔗 <a href="https://scriptjk.github.io/meu-portifolio">Ver site</a></li>
 
 </ul>
