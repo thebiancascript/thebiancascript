@@ -12,7 +12,7 @@ Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de l�
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px;" />
@@ -32,7 +32,7 @@ Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de l�
 
 
 
-### 🌟 Projetos em destaque
+### 🌟 Featured Projects
 
 
 <li>💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
@@ -53,9 +53,13 @@ Página com minhas informações, habilidades e currículo.<br>
 
 ---
 
-### 📬 Como falar comigo
+### 📬 Contact Me
 
 <p align="center">
-<a href="https://linkedin.com/in/bsobral0327"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; margin: 5px;"/></a>
-<a href="mailto:biancaferreirasobral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 8px; margin: 5px;"/></a>
+  <a href="https://linkedin.com/in/bsobral0327" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 20px;" />
+  </a>
+  <a href="mailto:biancaferreirasobral@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin: 20px;" />
+  </a>
 </p>
