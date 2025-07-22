@@ -52,16 +52,20 @@ Página com minhas informações, habilidades e currículo.<br>
 </p>
 
 ---
-
 <h3 align="center">📬 Como falar comigo</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/bsobral0327">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="#0A66C2">
+      <path d="M4.98 3.5C4.98 4.88 3.88 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8.5h4V24h-4V8.5zm7 0h3.8v2.1h.05c.53-1 1.83-2.1 3.77-2.1 4.03 0 4.77 2.67 4.77 6.1V24h-4V15.4c0-2.06-.04-4.72-2.88-4.72-2.88 0-3.32 2.25-3.32 4.57V24h-4V8.5z"/>
+    </svg>
+  </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/40/gmail.png" alt="Gmail" />
+  <a href="mailto:biancaferreirasobral@gmail.com">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 512 512">
+      <path fill="#D44638" d="M502.3 190.8L327.4 338.5c-20.9 18-51.5 18-72.4 0L9.7 190.8c-13.3-11.5-1.4-33.3 15.5-28.6L256 288l230.8-125.8c16.9-4.7 28.8 17 15.5 28.6z"/>
+      <path fill="#F2F2F2" d="M502.3 190.8L327.4 338.5c-20.9 18-51.5 18-72.4 0L9.7 190.8C3.6 185.3 0 177.4 0 169V392c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V169c0 8.4-3.6 16.3-9.7 21.8z"/>
+    </svg>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/bsobral0327">linkedin.com/in/bsobral0327</a> | 
-  <a href="mailto:biancaferreirasobral@gmail.com">biancaferreirasobral@gmail.com</a>
-</p>
