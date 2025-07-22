@@ -25,7 +25,8 @@ Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de l�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
----
+
+
 
 ### 🌟 Projetos em destaque
 
