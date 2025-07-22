@@ -45,18 +45,18 @@ Página com minhas informações, habilidades e currículo.<br>
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 0;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=thebiancascript&show_icons=true&theme=tokyonight&border_color=8a2be2"
     alt="GitHub Stats"
-    style="border-radius: 12px 0 0 12px; margin: 10px 0 10px 0; width: 420px; height: 160px;"
+    style="border-radius: 12px 0 0 12px; width: 420px; height: 160px;"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebiancascript&layout=compact&theme=tokyonight&border_color=8a2be2"
     alt="Linguagens Mais Usadas"
-    style="border-radius: 0 12px 12px 0; margin: 10px 0 10px 0; width: 420px; height: 160px;"
+    style="border-radius: 0 12px 12px 0; width: 420px; height: 160px;"
   />
-</p>
+</div>
 
 
 ---
