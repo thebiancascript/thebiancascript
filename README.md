@@ -53,13 +53,13 @@ Página com minhas informações, habilidades e currículo.<br>
 
 ---
 
-### 📬 Contact Me
+### 📬 Como falar comigo
 
 <p align="center">
   <a href="https://linkedin.com/in/bsobral0327" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin: 20px;" />
   </a>
   <a href="mailto:biancaferreirasobral@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="40" height="40" style="margin: 20px;" />
   </a>
 </p>
