@@ -60,7 +60,7 @@ Página com minhas informações, habilidades e currículo.<br>
 
 
 ---
-<h3 align="center">📬 Como falar comigo</h3>
+<h3 align="center">📬 Contact Me!</h3>
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://linkedin.com/in/bsobral0327" target="_blank">
