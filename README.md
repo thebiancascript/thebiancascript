@@ -6,13 +6,13 @@ Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-End
 
 ---
 
-### 👩‍🎓 About Me
+👩‍🎓 About Me
 
 Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de lógica de programação, Git e metodologias ágeis como Kanban! Atualmente estou estudando React. Já atuei como monitora acadêmica em programação e estou sempre estudando e praticando com projetos pessoais. Tenho paixão por aprender, colaborar em equipe e desenvolver soluções que façam a diferença! Busco minha primeira oportunidade como estagiária ou desenvolvedora júnior na área de TI.
 
 ---
 
-### 💻 Tech Stack
+💻 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px;" />
@@ -32,7 +32,7 @@ Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de l�
 
 
 
-### 🌟 Featured Projects
+🌟 Featured Projects
 
 
 <li>💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
@@ -43,7 +43,7 @@ Página com minhas informações, soft/hard skills e currículo.<br>
 </p>
 
 ---
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 0;">
   <img
