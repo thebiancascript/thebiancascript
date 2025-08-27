@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-End
 
 👩‍🎓 About Me
 
-Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C# e SQL, além de lógica de programação, Git e metodologias ágeis como Kanban! Atualmente estou estudando React. Já atuei como monitora acadêmica em programação e estou sempre estudando e praticando com projetos pessoais. Tenho paixão por aprender, colaborar em equipe e desenvolver soluções que façam a diferença! Busco minha primeira oportunidade como estagiária ou desenvolvedora júnior na área de TI.
+Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C, C# e SQL, além de lógica de programação, Git e metodologias ágeis como Kanban e Scrum! Atualmente estou estudando React. Já atuei como monitora acadêmica em programação e estou sempre estudando e praticando com projetos pessoais. Tenho paixão por aprender, colaborar em equipe e desenvolver soluções que façam a diferença! Busco minha primeira oportunidade como estagiária ou desenvolvedora júnior na área de TI.
 
 ---
 
