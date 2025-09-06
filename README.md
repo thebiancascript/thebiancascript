@@ -7,34 +7,6 @@ Análise e Desenvolvimento de Sistemas | Foco em Front-End
 
 ---
 
-👩‍🎓 About Me
-
-Front-End Developer apaixonada por criar soluções digitais elegantes e funcionais.
-
-💻 Skills
-
-Linguagens: JavaScript, HTML, CSS, Java, Python, C, C#
-
-Banco de dados: SQL
-
-Lógica & Programação: Algoritmos e estruturas de dados
-
-Metodologias Ágeis: Scrum & Kanban
-
-🌟 Diferenciais
-
-Proativa e comunicativa
-
-Rápida no aprendizado
-
-Trabalho em equipe e colaboração em projetos
-
-🚀 Objetivo
-
-Contribuir com projetos desafiadores e criar experiências digitais de impacto.
-
----
-
 💻 Tech Stack
 
 <p align="center">
