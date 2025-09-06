@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-Análise e Desenvolvimento de Sistemas | Foco em Front-End & UIxUX :)
+Análise e Desenvolvimento de Sistemas | Foco em Front-End & UX/UI Design :)
 </p>
 
 ---
