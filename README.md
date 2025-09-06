@@ -1,15 +1,20 @@
-<h1 align="center">👩‍💻 Bianca Sobral | Desenvolvedora em formação</h1>
+<h1 align="center">👩‍💻 Bianca Sobral | Front-End Developer 🚀
+</h1>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas | Foco em Front-End
+Análise e Desenvolvimento de Sistemas | Foco em Front-End
 </p>
 
 ---
 
 👩‍🎓 About Me
 
-Tenho conhecimento em JavaScript, HTML, CSS, Python, Java, C, C# e SQL, além de lógica de programação, Git e metodologias ágeis como Kanban e Scrum! Atualmente estou estudando React. Já atuei como monitora acadêmica em programação e estou sempre estudando e praticando com projetos pessoais. Tenho paixão por aprender, colaborar em equipe e desenvolver soluções que façam a diferença! Busco minha primeira oportunidade como estagiária ou desenvolvedora júnior na área de TI.
-
+Front-End Developer com conhecimento em JavaScript, HTML, CSS, Java, Python, C,
+ C#, Banco de dados SQL, Lógica da Programação e metodologias ágeis (Kanban e
+ Scrum). Possuo habilidades com informática, comunicação e trabalho em equipe,
+ além de proatividade e facilidade em aprender rapidamente. Busco uma
+ oportunidade desafiadora para aplicar minhas competências e colaborar em projetos
+ da equipe ;)
 ---
 
 💻 Tech Stack
