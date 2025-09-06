@@ -31,7 +31,7 @@ Análise e Desenvolvimento de Sistemas | Foco em Front-End
 
 
 <li>💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
-Página com minhas informações, soft/hard skills e currículo.<br>
+  Saiba mais sobre mim! Aqui tem um site com minhas informações, soft/hard skills e Currículo.<br>
 🔗 <a href="https://thebiancascript.github.io/bs-portifolio/">Ver site</a></li>
 
 </ul>
