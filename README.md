@@ -30,7 +30,7 @@ Análise e Desenvolvimento de Sistemas - Foco em Front-End & UX/UI Design :)
 🌟 Featured Projects
 
 
-<li>💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
+💼 <strong>Portfólio Pessoal em HTML/CSS</strong><br>
   Saiba mais sobre mim! Aqui tem um site com minhas informações, soft/hard skills e Currículo.<br>
 🔗 <a href="https://thebiancascript.github.io/bs-portifolio/">Ver site</a></li>
 
@@ -38,6 +38,7 @@ Análise e Desenvolvimento de Sistemas - Foco em Front-End & UX/UI Design :)
 </p>
 
 ---
+
 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 0;">
