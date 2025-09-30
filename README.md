@@ -1,4 +1,4 @@
-<h1> E aí, galera! Me chamo Bianca</h1>
+<h1> E aí, galera. Me chamo Bianca Sobral!</h1>
 
 Atualmente estou...
 
@@ -6,6 +6,15 @@ Atualmente estou...
 - 🪙 A procura de um estágio ou jovem aprendiz remunerado
 - 📚 Estou estudando TypeScript e UI/UX Design
 - 📷 No meu tempo livre eu gosto de fotografar e assistir séries <br>
+
+
+## 🖼️ Portfólio com informações e alguns projetos :)
+
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thebiancascript.github.io/bs-portifolio/)
+
+💻 Você pode conferir todos os meus projetos no meu [GitHub](https://github.com/thebiancascript)
+
 
 ## 📱 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsobral0327/)
