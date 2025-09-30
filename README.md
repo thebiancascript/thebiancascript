@@ -2,9 +2,10 @@
 
 Atualmente estou...
 
-- 🔭 Estou trabalhando como Desenvolvedor Front-End 
+- 🔭 Estou estagiando na Fabrica de Software como Desenvolvedora Front-End
+- 🪙 A procura de um estágio ou jovem aprendiz remunerado
 - 📚 Estou estudando TypeScript e UI/UX Design
-- ⚡ No meu tempo livre gosto de fotografar<br>
+- 📷 No meu tempo livre eu gosto de fotografar e assistir séries <br>
 
 ## 📱 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bsobral0327/)
@@ -28,7 +29,7 @@ Atualmente estou...
    
 </div>
 
-## 🔥 Meus Status
+## 🔥 My stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thebiancascript&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebiancascript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=purple&hide_border=false&order=2" height="150" alt="languages graph" />
