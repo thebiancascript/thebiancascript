@@ -1,7 +1,8 @@
 <h1> E aí, galera. Me chamo Bianca Sobral!</h1>
 
-Atualmente estou...
+Atualmente eu sou e estou...
 
+- 🔧 Estudante de Análise e Desenvolvimento de Sistemas 
 - 🔭 Estagiando na Fábrica de Software, atuando como Desenvolvedora Front-End  
 - 🪙 Buscando novas oportunidades de estágio ou emprego remunerado na área de tecnologia  
 - 📚 Estudando TypeScript e explorando UI/UX Design  
@@ -41,9 +42,18 @@ Atualmente estou...
    
 </div>
 
+
 ## 🔥 My stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thebiancascript&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebiancascript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=purple&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 <hr>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thebiancascript&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thebiancascript&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
