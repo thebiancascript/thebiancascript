@@ -50,10 +50,18 @@ Atualmente eu sou e estou...
 </div>
 <hr>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thebiancascript&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thebiancascript&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 style="color:white;">🏆 GitHub Trophies</h3>
 
+<img src="https://github-profile-trophy.vercel.app/?username=thebiancascript&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
+</div>
+
+<div align="center">
+
+<h3 style="color:white;">🔝 Top Contributed Repo</h3>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=thebiancascript&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+
+</div>
