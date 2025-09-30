@@ -2,10 +2,10 @@
 
 Atualmente estou...
 
-- 🔭 Estou estagiando na Fabrica de Software como Desenvolvedora Front-End
-- 🪙 A procura de um estágio ou jovem aprendiz remunerado
-- 📚 Estou estudando TypeScript e UI/UX Design
-- 📷 No meu tempo livre eu gosto de fotografar e assistir séries <br>
+- 🔭 Estagiando na Fábrica de Software, atuando como Desenvolvedora Front-End  
+- 🪙 Buscando novas oportunidades de estágio ou emprego remunerado na área de tecnologia  
+- 📚 Estudando TypeScript e explorando UI/UX Design  
+- 📷 Nos momentos livres, adoro fotografar, criar conteúdos visuais e maratonar séries  
 
 
 ## 🖼️ Portfólio com informações e alguns projetos :)
