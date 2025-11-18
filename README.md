@@ -12,7 +12,7 @@ Atualmente eu sou e estou...
 ## 🖼️ Portfólio com informações e alguns projetos :)
 
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thebiancascript.github.io/bs-portifolio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-2-0-8adyfslqb-bianca-sobrals-projects.vercel.app/)
 
 💻 Você pode conferir todos os meus projetos no meu [GitHub](https://github.com/thebiancascript)
 
