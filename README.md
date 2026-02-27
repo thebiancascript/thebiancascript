@@ -3,7 +3,6 @@
 Atualmente eu sou e estou...
 
 - 🔧 Estudante de Análise e Desenvolvimento de Sistemas 
-- 🔭 Estagiando na Fábrica de Software, atuando como Desenvolvedora Front-End  
 - 🪙 Buscando novas oportunidades de estágio ou emprego remunerado na área de tecnologia  
 - 📚 Estudando TypeScript e explorando UI/UX Design  
 - 📷 Nos momentos livres, adoro fotografar, criar conteúdos visuais e maratonar séries  
