@@ -11,7 +11,7 @@ Atualmente eu sou e estou...
 ## 🖼️ Portfólio com informações e alguns projetos :)
 
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](portifolio-2-0-rosy.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)]([portifolio-2-0-rosy.vercel.app](https://portifolio-2-0-rosy.vercel.app))
 
 💻 Você pode conferir todos os meus projetos no meu [GitHub](https://github.com/thebiancascript)
 
